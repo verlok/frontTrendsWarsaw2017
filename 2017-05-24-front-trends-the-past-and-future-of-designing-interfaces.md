@@ -38,3 +38,8 @@ Excel spreadsheeds are hiding data and 88% contains errors. 10 out of 25.
 
 An interface must be just an extension of a person.
 
+You need to understand your content. Try things out. Combine contents. Do color permutations. We could create a grid and look at all the possible states. Then you start to see new issues that you need to address.
+
+(he shows a grid of all the possible combinations of all components, made using a matrix tool (x-assis variant, y-assis variant, zoomable)
+
+He has @jxnblk Brent Jackson and @4lpine John Otander which helps him.
