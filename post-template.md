@@ -1,5 +1,5 @@
 FILENAME: 
-2017-05-24-front-trends-__title__.md
+2017-05-24-front-trends-day-2-__title__
 
 ---
 layout: post
