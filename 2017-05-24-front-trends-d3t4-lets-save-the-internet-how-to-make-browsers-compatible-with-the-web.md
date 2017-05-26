@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's save the internet: How to make browsers compatible with the web - Ola Gasidlo - Front-trends Warsaw 2017
+title: Let's save the internet, how to make browsers compatible with the web - Ola Gasidlo - Front-trends Warsaw 2017
 date: 2017-05-24 18:00:00 +01:00
 categories:
 - conferences
