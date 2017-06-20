@@ -1,5 +1,5 @@
 FILENAME: 
-2017-05-24-front-trends-d3t_-__title__
+2017-05-23-front-trends-_-__title__
 
 ---
 layout: post
